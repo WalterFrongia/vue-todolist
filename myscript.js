@@ -4,7 +4,7 @@
 var root = new Vue({
     el: "#root",
     data: {
-        
+        shoopList:["uova", "cipolle", "aglio", "broccoli"]
     },
 
     methods: {
